@@ -14,3 +14,9 @@ const connectDB = async ()=>{
 }
 
 export default connectDB
+
+
+
+
+// database se connect krne ke liye hme 2 chijo ka hamesha dyan rakhna he 1st kyoki isme time lgta he to hme async function jriri he
+// 2nd hme try or catch block ka use to krna hi pdega
